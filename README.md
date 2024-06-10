@@ -1,5 +1,5 @@
 # Boas vindas ao meu perfil 💙💙
-Meu nome é Leonardo Viana
+Meu nome é **Leonardo Viana**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
